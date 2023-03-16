@@ -1,6 +1,9 @@
 [
     {
         "content": "<p>We have been providing Architectural Services to an expansive range of markets and localities since established. Our professional staff of Architects and 3-D Computer Rendering Experts provides the professionalism and innovative approaches fundamental to the execution of successful design solutions. From conceptual design through construction administration our Design Team integrates technical expertise, construction knowledge, and conceptual 3-D visualization to produce the optimal design solution. <br /><br />We offer an integral approach to architecture design, which enables us to provide the client with their ultimate vision.</p><li>Feasibility Studies</li><li>Site Analysis &amp; Evaluation</li><li>Conceptual Design</li><li>Schematic Design</li><li>Design Development and Detailed Design</li><li>Interior Design</li><li>Landscape Design</li>",
-        "img": "https://www.themillsbuilding.com/userfiles/cms/building/images/1/building.jpg"
+        "img": [
+            {"https://www.themillsbuilding.com/userfiles/cms/building/images/1/building.jpg"},
+            {"https://www.themillsbuilding.com/userfiles/cms/building/images/1/building.jpg"},
+        ]
     }
 ]
